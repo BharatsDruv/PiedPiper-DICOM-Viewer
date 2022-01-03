@@ -77,7 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
- <img src="https://raw.githubusercontent.com/BharatsDruv/PiedPiper-DICOM-Viewer/master/PiedPiper.png" alt="Logo" width="1080/500" height="1920/500">
+ <img src="https://raw.githubusercontent.com/BharatsDruv/PiedPiper-DICOM-Viewer/master/PiedPiper.png" alt="Logo" width="1920/500" height="1080/500">
 
 Our system allows to display DICOM images quickly and easily. It uses DICOM images (e.g. MRI scan) or video stream, that comes as an input from operating room which is combined with metadata and transmits to a remote browser through WebRTC. It allows real time peer to peer communication between multiple users with just their browsers. 
 
@@ -177,9 +177,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Bharat Shrivastava - [@LinkedIn](https://www.linkedin.com/in/bharatshrivastava/) - bharatsdruv@gmail.com
-Abhishek Singh Baghel - [@LinkedIn](https://www.linkedin.com/in/asbaghel/) - abhisheksbaghel99@gmail.com
-Yashsvi Sharma - [@LinkedIn](https://www.linkedin.com/in/yashsvi-sharma-9663a9172/) - yashsvi30201@gmail.com
+* Bharat Shrivastava - [@LinkedIn](https://www.linkedin.com/in/bharatshrivastava/) - bharatsdruv@gmail.com 
+* Abhishek Singh Baghel - [@LinkedIn](https://www.linkedin.com/in/asbaghel/) - abhisheksbaghel99@gmail.com 
+* Yashsvi Sharma - [@LinkedIn](https://www.linkedin.com/in/yashsvi-sharma-9663a9172/) - yashsvi30201@gmail.com
 
 
 Project Link: [https://github.com/BharatsDruv/PiedPiper-DICOM-Viewer](https://github.com/BharatsDruv/PiedPiper-DICOM-Viewer)
