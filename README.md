@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-
+<a>
     <img src="http://cdn.onlinewebfonts.com/svg/img_45133.png" alt="Logo" width="80" height="80">
   </a>
 
