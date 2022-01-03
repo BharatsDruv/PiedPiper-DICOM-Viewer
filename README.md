@@ -77,7 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
- <img src="https://raw.githubusercontent.com/BharatsDruv/PiedPiper-DICOM-Viewer/master/PiedPiper.png" alt="Logo" width="384" height="216">
+ <img src="https://raw.githubusercontent.com/BharatsDruv/PiedPiper-DICOM-Viewer/master/PiedPiper.png" alt="Logo" width="768" height="432">
 
 Our system allows to display DICOM images quickly and easily. It uses DICOM images (e.g. MRI scan) or video stream, that comes as an input from operating room which is combined with metadata and transmits to a remote browser through WebRTC. It allows real time peer to peer communication between multiple users with just their browsers. 
 
@@ -170,7 +170,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Creative Commons Zero v1.0 Universal License. See `LICENSE` for more information.
 
 
 
